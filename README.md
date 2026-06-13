@@ -4,30 +4,32 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Dio-orange?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Architecture-Clean-brightgreen?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/DevOps-Multi--Flavor-blueviolet?style=for-the-badge" alt="Flavors" />
 </p>
 
-> 💻 **Software Programmer** passionate about building clean, scalable, and high-performance mobile applications. Focuses on robust architecture and seamless user experiences.
+> 💻 **Software Programmer** 🛠️ passionate about building clean ✨, scalable 📈, and high-performance mobile applications 📱. Focuses on robust architecture 📐 and seamless user experiences 👥.
 
 ---
 
 ### ⚡ 🛠️ Tech Stack & Skillset
 
-* 📐 **Architecture:** Feature-Driven Clean Architecture & SOLID Principles.
-* 🔄 **State Management:** Flutter BLoC & Cubit (Unidirectional Data Flow).
-* ⚙️ **DevOps & Builds:** Native Product Flavors (Multi-Role Apps: User, Owner, Staff).
-* 🌐 **APIs & Backend:** REST APIs (Dio, Custom Interceptors) & Live Firebase Streams.
-* 💾 **Local Storage:** Hive Local Binary DB (Caching & Sessions).
-* 💳 **Integrations:** Stripe Payment Gateway & Third-Party SDKs (Zoom SDK).
+* 📐 **Architecture:** Strict Clean Architecture 🏛️ & SOLID Principles 💎.
+* 🔄 **State Management:** Flutter BLoC 📦 & Cubit 🎛️ (Unidirectional Flow).
+* ⚙️ **App Flavors:** Native Product Flavors 🎭 (Multi-Role configurations).
+* 🌐 **APIs & Networking:** REST APIs 🧬 (Dio Client 📡 & Custom Interceptors ⚙️).
+* 🔥 **Backend Cloud:** Firebase Auth 🔐 & Cloud Firestore Streams ⚡.
+* 💾 **Local Storage:** Hive Binary DB 🗄️ (Offline Caching 📦 & Sessions 🔒).
+* 💳 **Integrations:** Stripe Payment Gateway 💳 & Zoom SDK 🎥.
 
 ---
 
 ### 🔮 Engineering Patterns I Apply
 
-* 🧩 **Atomic Presentation:** Abstract, generic custom widgets to prevent UI duplication (**DRY**).
-* 🏎️ **Performance:** Handling real-time data streams and cursor pagination smoothly.
-* 🔐 **Secure Code:** Safe token synchronization via local secure storage.
+* 🧩 **Atomic Presentation:** Custom reusable widgets 🛠️ to enforce the **DRY principle** 🚫.
+* 🏎️ **Performance:** Real-time data streaming 🌊 and cursor-based pagination 📑.
+* 🔐 **Secure Code:** Token synchronization 🔄 via local secure storage 🔐.
 
 ---
 
@@ -42,6 +44,6 @@
 
 ### 🤝 Connect With Me
 
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link]
-* 📧 **Email:** [Your Email Address]
-* 🚀 **Open for:** New Opportunities & Collaboration.
+* 💼 **LinkedIn:** [Your LinkedIn Profile Link] 🌐
+* 📧 **Email:** [Your Email Address] 📩
+* 🚀 **Open for:** New Opportunities & Collaboration 🤝.
