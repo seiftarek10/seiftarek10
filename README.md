@@ -56,6 +56,6 @@
 
 ### 🤝 Connect With Me
 
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link] 🌐
-* 📧 **Email:** [Your Email Address] 📩
+* 💼 **LinkedIn:** https://www.linkedin.com/in/seif-tariq/ 🌐
+* 📧 **Email:** seift470@gmail.com 📩
 * 🚀 **Open for:** New Opportunities & Collaboration 🤝.
