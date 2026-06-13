@@ -28,17 +28,17 @@
 
 ### 📂 🔮 Featured Projects (Production-Grade)
 
-#### 📸 [snap_shot](https://github.com/seiftariq/snap_shot) — Multi-Flavor Mobile Project
+#### 📸 [snap_shot](https://github.com/seiftariq10/snap_shot) — Multi-Flavor Mobile Project
 * 🎭 Configured with native Dual **Product Flavors** built specifically for roles (`User` 👤 & `Owner` 👑).
 * 💳 Integrated **Stripe** for server-side customer communication and adaptive payment sheets.
 * 📑 Engineered real-time data streaming synchronized smoothly with **Cursor-Based Pagination** & Hive.
 
-#### 🩺 [DermaByte](https://github.com/seiftariq/DermaByte) — AI-Powered Dermatology & Telehealth System
+#### 🩺 [DermaByte](https://github.com/seiftariq10/DermaByte) — AI-Powered Dermatology & Telehealth System
 * 🤖 Seamless **AI Skin Scan** pipeline processing image compression and multi-part upload via **Dio** 📡.
 * 🧪 Full lifecycle workflow connecting patients directly with certified Medical Labs 📊 inside the app.
 * 🎥 Secure virtual remote patient consultations integrated natively using **Zoom SDK** 💻.
 
-#### ☕ [Coffee Oasis](https://github.com/seiftariq/Coffee-Oasis) — Realtime Coffee Shop System
+#### ☕ [Coffee Oasis](https://github.com/seiftariq10/Coffee-Oasis) — Realtime Coffee Shop System
 * 📱 Dynamic local cart storage mapping using high-speed binary **Hive Box** caching 💾.
 * ⚡ Live zero-polling menu refreshes and immediate synchronized store data changes via **Firestore Streams** 🔥.
 * 🛍️ Dual fulfillment layouts adaptive checkout for both **Home Delivery** 🛵 and **In-Store Pickup**.
