@@ -28,7 +28,7 @@
 
 ### 📂 🔮 Featured Projects (Production-Grade)
 
-#### 📸 [snap_shot](https://github.com/seiftarek10/snap_shot_e-commerce) — Multi-Flavor Mobile Project
+#### 🛒 [snap_shot](https://github.com/seiftarek10/snap_shot_e-commerce) — Multi-Flavor Mobile Project
 * 🎭 Configured with native Dual **Product Flavors** built specifically for roles (`User` 👤 & `Owner` 👑).
 * 💳 Integrated **Stripe** for server-side customer communication and adaptive payment sheets.
 * 📑 Engineered real-time data streaming synchronized smoothly with **Cursor-Based Pagination** & Hive.
