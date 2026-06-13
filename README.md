@@ -28,15 +28,20 @@
 
 ### 📂 🔮 Featured Projects (Production-Grade)
 
-#### ☕ snap_shot — Realtime Multi-Flavor Coffee Shop System
-* 🎭 Built on native **Product Flavors** (`User` 👤, `Staff` 👨‍🍳, `Owner` 👑) from a single codebase.
-* 📱 Dynamic cart mapping via **Hive Box** 💾 and instant synchronization using **Firestore Streams** ⚡.
-* 🛍️ Adaptive checkouts supporting both **Home Delivery** 🛵 and **In-Store Pickup** layouts.
+#### 📸 [snap_shot](https://github.com/seiftariq/snap_shot) — Multi-Flavor Mobile Application
+* 🎭 Built on native **Product Flavors** (`User` 👤, `Owner` 👑, `Staff` 👨‍🍳, `Delivery` 🛵) from one codebase.
+* 💳 Secure financial transaction processing via global **Stripe Payment Gateway** integration.
+* 📑 Scalable real-time streaming architecture with highly optimized **Cursor-Based Pagination** ⚡.
 
-#### 🩺 DermaByte — AI-Powered Dermatology & Telehealth System
+#### 🩺 [DermaByte](https://github.com/seiftariq/DermaByte) — AI-Powered Dermatology & Telehealth System
 * 🤖 Seamless **AI Skin Scan** pipeline processing image compression and multi-part upload via **Dio** 📡.
 * 🧪 Full lifecycle workflow connecting patients directly with certified Medical Labs 📊 inside the app.
 * 🎥 Secure virtual remote patient consultations integrated natively using **Zoom SDK** 💻.
+
+#### ☕ [Coffee Oasis](https://github.com/seiftariq/Coffee-Oasis) — Realtime Coffee Shop System
+* 📱 Dynamic local cart storage mapping using high-speed binary **Hive Box** caching 💾.
+* ⚡ Live zero-polling menu refreshes and immediate synchronized store data changes via **Firestore Streams** 🔥.
+* 🛍️ Dual fulfillment layouts adaptive checkout for both **Home Delivery** 🛵 and **In-Store Pickup**.
 
 ---
 
