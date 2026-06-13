@@ -30,7 +30,7 @@
 
 #### 📸 [snap_shot](https://github.com/seiftariq/snap_shot) — Multi-Flavor Mobile Project
 * 🎭 Configured with native Dual **Product Flavors** built specifically for roles (`User` 👤 & `Owner` 👑).
-* 💳 Integrated **Stripe & PayPal Gateways** for server-side customer communication and adaptive payment sheets.
+* 💳 Integrated **Stripe** for server-side customer communication and adaptive payment sheets.
 * 📑 Engineered real-time data streaming synchronized smoothly with **Cursor-Based Pagination** & Hive.
 
 #### 🩺 [DermaByte](https://github.com/seiftariq/DermaByte) — AI-Powered Dermatology & Telehealth System
