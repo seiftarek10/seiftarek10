@@ -16,22 +16,22 @@
 
 ### ⚡ 🛠️ Tech Stack & Skillset
 
-* ⚙️ **App Configurations:** Native Product Flavors 🎭 (Multi-Flavor System).
+* ⚙️ **App Configurations:** Native Product Flavors 🎭 (Multi-Flavor Implementation).
 * 📐 **Architecture:** Strict Clean Architecture 🏛️ & SOLID Principles 💎.
 * 🔄 **State Management:** Flutter BLoC 📦 & Cubit 🎛️ (Unidirectional Flow).
 * 🌐 **APIs & Networking:** REST APIs 🧬 (Dio Client 📡 & Custom Interceptors ⚙️).
 * 🔥 **Backend Cloud:** Firebase Auth 🔐 & Cloud Firestore Streams ⚡.
-* 💾 **Local Storage:** Hive Binary DB 🗄️ (Offline Caching 📦 & Sessions 🔒).
+* 💾 **Local Storage:** Hive Binary DB 🗄️ (Local Synchronization 📦 & Sessions 🔒).
 * 💳 **Integrations:** Stripe Payment Gateway 💳 & Zoom SDK 🎥.
 
 ---
 
 ### 📂 🔮 Featured Projects (Production-Grade)
 
-#### 📸 [snap_shot](https://github.com/seiftariq/snap_shot) — Multi-Flavor Mobile Application
-* 🎭 Built on native **Product Flavors** (`User` 👤, `Owner` 👑, `Staff` 👨‍🍳, `Delivery` 🛵) from one codebase.
-* 💳 Secure financial transaction processing via global **Stripe Payment Gateway** integration.
-* 📑 Scalable real-time streaming architecture with highly optimized **Cursor-Based Pagination** ⚡.
+#### 📸 [snap_shot](https://github.com/seiftariq/snap_shot) — Multi-Flavor Mobile Project
+* 🎭 Configured with native Dual **Product Flavors** built specifically for roles (`User` 👤 & `Owner` 👑).
+* 💳 Integrated **Stripe Payment Gateway** server-side customer communication and Ephemeral keys.
+* 📑 Engineered real-time data streaming synchronized smoothly with **Cursor-Based Pagination** & Hive.
 
 #### 🩺 [DermaByte](https://github.com/seiftariq/DermaByte) — AI-Powered Dermatology & Telehealth System
 * 🤖 Seamless **AI Skin Scan** pipeline processing image compression and multi-part upload via **Dio** 📡.
