@@ -44,15 +44,6 @@
 * 🎥 Secure virtual remote patient consultations integrated natively using **Zoom SDK** 💻.
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seiftariq&show_icons=true&theme=radial" alt="Seif's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiftariq&layout=compact&theme=radial" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/seif-tariq/ 🌐
