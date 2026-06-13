@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/REST%20APIs-Dio-orange?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Multi--Flavor-Apps-blueviolet?style=for-the-badge" alt="Multi-Flavor" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   <img src="https://img.shields.io/badge/Architecture-Clean-brightgreen?style=for-the-badge" alt="Clean Architecture" />
 </p>
 
@@ -21,8 +21,8 @@
 * 🔄 **State Management:** Flutter BLoC 📦 & Cubit 🎛️ (Unidirectional Flow).
 * 🌐 **APIs & Networking:** REST APIs 🧬 (Dio Client 📡 & Custom Interceptors ⚙️).
 * 🔥 **Backend Cloud:** Firebase Auth 🔐 & Cloud Firestore Streams ⚡.
-* 💾 **Local Storage:** Hive Binary DB 🗄️ (Local Synchronization 📦 & Sessions 🔒).
-* 💳 **Integrations:** Stripe Payment Gateway 💳 & Zoom SDK 🎥.
+* 💾 **Local Storage:** Hive Binary DB 🗄️ & Shared Preferences ⚙️ (Local Sync & Key-Value Caching 🔒).
+* 💳 **Integrations:** Stripe & PayPal Gateways 💳 | Zoom SDK 🎥.
 
 ---
 
@@ -30,7 +30,7 @@
 
 #### 📸 [snap_shot](https://github.com/seiftariq/snap_shot) — Multi-Flavor Mobile Project
 * 🎭 Configured with native Dual **Product Flavors** built specifically for roles (`User` 👤 & `Owner` 👑).
-* 💳 Integrated **Stripe Payment Gateway** server-side customer communication and Ephemeral keys.
+* 💳 Integrated **Stripe & PayPal Gateways** for server-side customer communication and adaptive payment sheets.
 * 📑 Engineered real-time data streaming synchronized smoothly with **Cursor-Based Pagination** & Hive.
 
 #### 🩺 [DermaByte](https://github.com/seiftariq/DermaByte) — AI-Powered Dermatology & Telehealth System
